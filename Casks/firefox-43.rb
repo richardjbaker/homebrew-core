@@ -1,6 +1,6 @@
 cask 'firefox-43' do
   version '43.0.1'
-  sha256 '4e14ecf74467f5227a1c15e56705b4b954a90d443dfba696f9dd908478e39dea'
+  sha256 '1478bbaa1882364f8168eacff8315e2c184d385cb3bf677e191d93c46e32c1f6'
 
   url "https://download-installer.cdn.mozilla.net/pub/firefox/releases/#{version}/mac/en-GB/Firefox%20#{version}.dmg"
   name 'Firefox'
