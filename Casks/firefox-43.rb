@@ -1,4 +1,4 @@
-cask 'firefox' do
+cask 'firefox-43' do
   version '43.0.1'
   sha256 '4e14ecf74467f5227a1c15e56705b4b954a90d443dfba696f9dd908478e39dea'
 
