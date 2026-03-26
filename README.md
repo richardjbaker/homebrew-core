@@ -20,3 +20,12 @@ Install:
 brew tap richardjbaker/core
 brew install richardjbaker/homebrew-core/openjdk@11
 ```
+
+## Updating existing files
+
+if you just need to update something that already here e.g. chromedriver
+
+- navigate to https://github.com/Homebrew/homebrew-cask/commits/main/Casks/c/chromedriver.rb
+- click the button to `view code at this point` on the version you want.
+- click raw button and copy the file
+- edit the file in this repo, paste and commit.
